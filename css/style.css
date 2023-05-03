@@ -28,7 +28,7 @@ i{
 /* =====Common css===== */
 /* ===Nav section start here=== */
 nav{
-    width: 100%;
+    width: 100vw;
     padding: 29px 0;
     position: absolute;
     left: 0;
@@ -73,7 +73,7 @@ nav{
 /* ===Nav section end here=== */
 /* ===Banner section start here=== */
 #banner{
-    width: 100%;
+    width: 100vw;
     padding: 230px 0;
     background: linear-gradient(rgba(243, 129, 129, 0.9),rgba(252, 227, 138, 0.9)),url(../images/banner.jpg);
     background-position: center;
@@ -205,7 +205,7 @@ nav{
     transform: scale(1);
 }
 .counter{
-    width: 100%;
+    width: 100vw;
     background-color: #95e1d3;
 }
 .counter_wrapper{
@@ -376,7 +376,7 @@ nav{
 /* ===Team section end here=== */
 /* ===Work section end here=== */
 .gal_wrapper{
-    width: 100%;
+    width: 100vw;
     padding: 100px 0;
     display: flex;
     align-items: center;
@@ -413,7 +413,7 @@ nav{
 /* ===Work section end here=== */
 /* ===Footer section end here=== */
 #footer{
-    width: 100%;
+    width: 100vw;
     background-color: #f8f8f8;
 }
 .footer_wrapper{
